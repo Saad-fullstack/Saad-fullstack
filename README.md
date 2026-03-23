@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Saad 👋
 
-<!--
-**Saad-fullstack/Saad-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+🚀 Building web applications using React, Node.js & Python  
+📚 Currently learning and improving my skills every day  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- React.js
+- Node.js & Express
+- Python
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Coming soon...
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/saad-ahmad-5881493b9
