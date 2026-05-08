@@ -1,7 +1,7 @@
 # Hi, I'm Saad 👋
 
 💻 Full-Stack Developer  
-🚀 Building web applications using React, Node.js & Python  
+🚀 Building web applications using React, Node.js & JavaScript 
 📚 Currently learning and improving my skills every day  
 
 ## 🔧 Tech Stack
